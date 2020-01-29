@@ -1,0 +1,6 @@
+framework module Pods_mannager {
+  umbrella header "Pods-mannager-umbrella.h"
+
+  export *
+  module * { export * }
+}
